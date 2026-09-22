@@ -1,6 +1,6 @@
 {
 	"name": "@clementprevot/pi-session-search",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Pi extension that fuzzy-searches all past session transcripts and resumes the one you pick",
 	"keywords": [
 		"pi-package",
