@@ -56,10 +56,9 @@ One thing to know: the index duplicates session text into `~/.pi/agent/session-s
 ## Local development
 
 ```bash
-corepack enable
-yarn install
-yarn test
-yarn typecheck
+npm install
+npm test
+npm run typecheck
 ```
 
 To try the extension in a live session without installing it:
